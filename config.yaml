@@ -1,0 +1,44 @@
+baseurl: /
+languageCode: en-us
+title: Alex Borelli
+theme: "hugo-ivy"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+preserveTaxonomyNames: true
+footnotereturnlinkcontents: ↩
+
+permalinks:
+  note: /note/:year/:month/:day/:slug/
+  post: /post/:year/:month/:day/:slug/
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+#    - name: "About"
+#      url: "/about/"
+#      weight: 2
+    - name: "Research"
+      url: "/projects/"
+      weight: 3
+    - name: "Blog"
+      url: "https://takeanumber.substack.com/"
+      weight: 4
+    - name: "Resume"
+      url: "https://docs.google.com/document/d/13xq4Xtd-hwA6RZP2TcqmIXzHxGleGuqB/export?format=pdf"
+      weight: 5
+
+params:
+  description: "Junior Sport Analytics Major, Economics & Sport Management Minor at Syracuse University"
+  footer: "[LinkedIn](https://www.linkedin.com/in/alex-borelli/) | [Github](https://github.com/afborell) | [Twitter](https://twitter.com/aborelli24)"
+  highlightjsCDN: "//cdn.bootcss.com"
+  highlightjsLang: ["r", "yaml", "tex"]
+  highlightjsTheme: "github"
+  highlightjsVersion: "9.12.0"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
