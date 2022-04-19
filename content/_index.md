@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="download-modified.png" style="max-width:25%;min-width:50px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-ivy)
+[<img src="borelli2.png" style="max-width:25%;min-width:50px;float:right;" alt="Github repo" />](https://github.com/afborell)
 
 <b> Hi! My name is Alex Borelli </b> and I am a junior Sport Analytics major & Economics and Sport Management minor at [__Syracuse University__](https://www.syracuse.edu/). I am currently an incoming Analytics Intern at [__Major League Baseball (MLB)__](https://www.mlb.com/) and have past data analysis & database management internship experiences with [__SBRnet__](https://sportsmarketanalytics.com/home.aspx?rs=nf) and [__Syracuse Football__](https://cuse.com/sports/football). 
 
