@@ -27,11 +27,11 @@ menu:
       url: "https://takeanumber.substack.com/"
       weight: 4
     - name: "Resume"
-      url: "https://docs.google.com/document/d/13xq4Xtd-hwA6RZP2TcqmIXzHxGleGuqB/export?format=pdf"
+      url: "https://docs.google.com/document/d/1ky8gpmac2ta8NwPEhjorGVELBLmx2a_B/export?format=pdf"
       weight: 5
 
 params:
-  description: "Junior Sport Analytics Major, Economics & Sport Management Minor at Syracuse University"
+  description: "Senior Sport Analytics Major, Economics & Sport Management Minor at Syracuse University"
   footer: "[LinkedIn](https://www.linkedin.com/in/alex-borelli/) | [Github](https://github.com/afborell) | [Twitter](https://twitter.com/aborelli24)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
