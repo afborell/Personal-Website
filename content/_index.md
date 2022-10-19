@@ -8,7 +8,7 @@ title: Home
 
 I have a passion for using numbers and data to find solutions to questions, specifically in the sports world. As an aspiring data scientist, I like to get my hands dirty in data in order to solve problems with statistical, mathematical, and data techniques. I enjoy learning by doing and using my curiosity to expand my knowledge in the field through various statistical and mathematical approaches.
 
-Through my education thus far at Syracuse, I have spent a couple of semesters as a research assistant using optimization techniques for DFS (Daily Fantasy Sports) lineups in order to maximize profits. I also founded and servex as vice president of the Syracuse University Fantasy Sports Club, a community for SU students to discuss fantasy sports insight and recommendations amongst one another.
+Through my education thus far at Syracuse, I have spent a couple of semesters as a research assistant using optimization techniques for DFS (Daily Fantasy Sports) lineups in order to maximize profits. I also founded and served as vice president of the Syracuse University Fantasy Sports Club, a community for SU students to discuss fantasy sports insight and recommendations amongst one another.
 
 If you are interested in connecting, please email me at [__afborell@syr.edu__](afborell@syr.edu).
  
