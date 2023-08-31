@@ -27,7 +27,7 @@ menu:
       url: "https://takeanumber.substack.com/"
       weight: 4
     - name: "Resume"
-      url: "https://docs.google.com/document/d/1ky8gpmac2ta8NwPEhjorGVELBLmx2a_B/export?format=pdf"
+      url: "https://docs.google.com/document/d/1E8-lq3kK8eVVTJxegKFU6J7SyMOirVbFx49s6xKMTJo/export?format=pdf"
       weight: 5
 
 params:
