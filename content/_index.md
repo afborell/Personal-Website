@@ -1,18 +1,18 @@
----
+----
 title: Home
 ---
 
 [<img src="borelli2.png" style="max-width:25%;min-width:50px;float:right;" alt="Github repo" />](https://github.com/afborell)
 
-<b> Hi! My name is Alex Borelli </b> and I am a senior Sport Analytics major & Economics and Sport Management minor at [__Syracuse University__](https://www.syracuse.edu/). I spent last summer as an Analytics Intern at [__Major League Baseball (MLB)__](https://www.mlb.com/) and have past data analysis & database management internship experiences with [__SBRnet__](https://sportsmarketanalytics.com/home.aspx?rs=nf) and [__Syracuse Football__](https://cuse.com/sports/football). 
+<b> Hi there! I'm Alex Borelli </b>, a passionate and data-driven graduate student pursuing a Master of Science degree in Data Science at [__Fordham University__](https://www.fordham.edu/). I graduated from Syracuse University in May of 2023 with summa cum laude honors, holding a Bachelor's degree in Sport Analytics complemented with minors in Economics and Sport Management.
 
-I have a passion for using numbers and data to find solutions to questions, specifically in the sports world. As an aspiring data scientist, I like to get my hands dirty in data in order to solve problems with statistical, mathematical, and data techniques. I enjoy learning by doing and using my curiosity to expand my knowledge in the field through various statistical and mathematical approaches.
+During the past two summers, I interned as an Analytics Intern at [__Major League Baseball (MLB)__](https://www.mlb.com/) in their Strategy & Development department, gaining hands-on experience in leveraging data to extract insights and inform data-driven decisions. I've also honed my data analysis and database management skills through internships with [__SBRnet__](https://sportsmarketanalytics.com/home.aspx?rs=nf) and [__Syracuse Football__](https://cuse.com/sports/football).
 
-Through my education thus far at Syracuse, I have spent a couple of semesters as a research assistant using optimization techniques for DFS (Daily Fantasy Sports) lineups in order to maximize profits. I also founded and served as vice president of the Syracuse University Fantasy Sports Club, a community for SU students to discuss fantasy sports insight and recommendations amongst one another.
+My true passion lies in unraveling complex challenges through the lens of data science. As a data scientist, I thrive on delving into datasets to uncover patterns, apply statistical methods, and create meaningful solutions. I embrace a hands-on learning approach, consistently exploring new statistical and mathematical techniques to broaden my skillset.
 
-If you are interested in connecting, please email me at [__afborell@syr.edu__](afborell@syr.edu).
- 
-Check out some of my personal and professional work on the research tab!
+During my academic journey, I've actively engaged in research, specifically through participating in various competitions. I finished 2nd overall amongst 150 undergraduate and graduate students at the [__AXS National Collegiate Sport Analytics Competition__](https://news.syr.edu/blog/2023/03/01/falk-college-sport-analytics-students-continue-success-at-national-competitions/) and led my team to a 1st overall finish in the game analytics division last spring.
+
+I'm always eager to connect and collaborate. Feel free to reach out via email at [__aborelli7@fordham.edu__](aborelli7@fordham.edu) or explore some of my personal and professional endeavors on the Research tab.
 
 ### Skills
 

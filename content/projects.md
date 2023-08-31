@@ -5,11 +5,17 @@ title: Research
 ---
 __NBA Research__
 
-- [A Replication and Refinement of Performance Under Pressure In The NBA](https://docs.google.com/document/d/1lwk7nSUeV_zE2CV8qxzEN0s6nFHxfU4gn3unTv2hEog/export?format=pdf)
-
 - [Analyzing NBA Shot Success Through Expected Points](https://takeanumber.substack.com/p/analyzing-nba-shot-success-through?s=w)
 
+- [National Collegiate Sport Analytics Competition - Quantifying the Quality of a Shot Through Expected Points ](https://docs.google.com/presentation/d/1H4aPymJF2WgN0WMY8sUEYIVomCy1vBAXdolnWLChTO8/edit?usp=sharing)
+
+- [A Replication and Refinement of Performance Under Pressure In The NBA](https://docs.google.com/document/d/1lwk7nSUeV_zE2CV8qxzEN0s6nFHxfU4gn3unTv2hEog/export?format=pdf)
+
+- [A]
+
 __MLB Research__
+
+- [Thesis Paper: Understanding The Effects of a Stolen Base Threat on Pitcher Pitch Quality](https://docs.google.com/document/d/1pdcP88XfqqmGJdwRcVb2q7U1OEgGWZKuH551xw1mNow/export?format=pdf)
 
 - [2021 MLB Pitchers R Shiny App](https://afborell.shinyapps.io/Pitcher_Visualization_R/)
 
