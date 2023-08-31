@@ -31,7 +31,7 @@ menu:
       weight: 5
 
 params:
-  description: "MSc Data Science Candidate at Fordham University | Sport Analytics Graduate from Syracuse University"
+  description: "MSc Data Science Candidate at Fordham University | BS Sport Analytics Graduate from Syracuse University"
   footer: "[LinkedIn](https://www.linkedin.com/in/alex-borelli/) | [Github](https://github.com/afborell) | [Twitter](https://twitter.com/aborelli24)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
