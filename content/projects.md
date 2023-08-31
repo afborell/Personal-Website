@@ -11,8 +11,6 @@ __NBA Research__
 
 - [A Replication and Refinement of Performance Under Pressure In The NBA](https://docs.google.com/document/d/1lwk7nSUeV_zE2CV8qxzEN0s6nFHxfU4gn3unTv2hEog/export?format=pdf)
 
-- [A]
-
 __MLB Research__
 
 - [Thesis Paper: Understanding The Effects of a Stolen Base Threat on Pitcher Pitch Quality](https://docs.google.com/document/d/1pdcP88XfqqmGJdwRcVb2q7U1OEgGWZKuH551xw1mNow/export?format=pdf)
