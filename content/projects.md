@@ -3,6 +3,11 @@ author: A compiled list of research projects I have completed thus far both in a
 date: 
 title: Research
 ---
+
+__Data Science Research__
+
+- [GPT vs. Llama2: Which Comes Closer to Human Writing?](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-long-papers.9/2024.EDM-long-papers.9.pdf)
+
 __NBA Research__
 
 - [Analyzing NBA Shot Success Through Expected Points](https://takeanumber.substack.com/p/analyzing-nba-shot-success-through?s=w)

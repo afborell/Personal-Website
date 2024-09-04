@@ -4,4 +4,4 @@ date: ""
 title: Alex Borelli
 ---
 
-My CV is available in [HTML](Alex-Borelli-Resume-Upd..html) or [PDF](Alex-Borelli-Resume-Upd..pdf) form.
+My CV is available in [HTML](Alex Borelli Resume..html) or [PDF](Alex Borelli Resume Upd..pdf) form.
